@@ -21,8 +21,8 @@
         "yiisoft/yii2-bootstrap": "*",
         "2amigos/yii2-grid-view-library": "*",
         "kartik-v/yii2-grid": "*",
-        "kartik-v/yii2-export": "@dev",
-        "kartik-v/yii2-mpdf": "dev-master",
+        "kartik-v/yii2-export": "*",
+        "kartik-v/yii2-mpdf": "*",
         "nex/yii2-datepicker": "*",
         "udokmeci/yii2-phone-validator" : "~1.0.1"
     },
